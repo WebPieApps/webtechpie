@@ -5,13 +5,13 @@
 ## 🚀 How to Get Started
 
 1. **Explore Our Projects**  
-   Browse our repositories at [github.com/WebPieApps](https://github.com/WebPieApps) to find a project that aligns with your interests.
+   Browse our repositories to find a project that aligns with your interests.
 
 2. **Check for Open Issues**  
    Look for issues labeled `good first issue` or `help wanted` to find tasks suitable for newcomers.
 
 3. **Join the Conversation**  
-   Connect with us on Slack: [Join WebTechPie Slack](https://join.slack.com/t/webtechpie/shared_invite/...). Introduce yourself in `#introductions` and engage in discussions.
+   Connect with us on Slack: [Join WebTechPie Slack](https://app.slack.com/client/T05JVP3BR8R/C05JKHG9TGU). Introduce yourself in `#introductions` and engage in discussions.
 
 4. **Set Up Your Development Environment**  
    Refer to the project's `README.md` for setup instructions. If you encounter issues, feel free to ask for help in the Slack `#help` channels.
@@ -56,7 +56,7 @@ If you encounter bugs or have feature requests:
 
 ## 🤝 Code of Conduct
 
-We are committed to fostering a welcoming and inclusive environment. Please read our [Code of Conduct](https://github.com/WebPieApps/.github/blob/main/CODE_OF_CONDUCT.md) before participating.
+We are committed to fostering a welcoming and inclusive environment. Please read our [Code of Conduct](https://github.com/WebPieApps/webtechpie/blob/main/.github/CODE_OF_CONDUCT.md) before participating.
 
 ## 🙌 Thank You
 
