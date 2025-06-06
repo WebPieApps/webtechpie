@@ -1,0 +1,28 @@
+name: 💡 Feature Request
+description: Suggest a new feature or improvement
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: feature
+    attributes:
+      label: Describe the Feature
+      placeholder: What problem does this solve? What’s the benefit?
+    validations:
+      required: true
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Suggested Implementation (optional)
+      placeholder: Describe how you think it could work
+    validations:
+      required: false
+
+  - type: input
+    id: context
+    attributes:
+      label: Context
+      placeholder: Link to any related issue/discussion
+    validations:
+      required: false
